@@ -1,0 +1,14 @@
+@charset"utf-8";
+/CSS Document/
+Pl
+    color:pink;
+    font-family:Constantia,"Lucide Bright","DejaVu Serif",Georgia,"serif";
+    font-size:16px;
+    Line-height:18px;
+    width:600px;
+    background-color:babyblue;
+    padding:20px;
+h1,h2[
+    font family:Gotham,"Helvetica Neue",Helvetica,Arial,"sans serif";
+    color:black;
+]
